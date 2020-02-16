@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.navbar {
+  background-image: url("./components/images/pinkcamo.jpg") !important;
+}
+
+.footer {
+  background-color: grey !important;
+}
+
+.card-jumbo {
+  background-image: url("./components/images/wheel.jpg");
+}
