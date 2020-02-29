@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fae911a2394ee640b1b084f480c329ad",
+    "revision": "23d90433f144ceef0a4a42f47d412983",
     "url": "/carlyscapes/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/carlyscapes/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "9378b6a2f92fc9cebf7d",
+    "revision": "f44263d554e269e33ef6",
     "url": "/carlyscapes/static/css/main.692a0b68.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/carlyscapes/static/js/2.58addf43.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9378b6a2f92fc9cebf7d",
-    "url": "/carlyscapes/static/js/main.79cb852a.chunk.js"
+    "revision": "f44263d554e269e33ef6",
+    "url": "/carlyscapes/static/js/main.58407a2c.chunk.js"
   },
   {
     "revision": "ef79706d049f0ed2607a",
