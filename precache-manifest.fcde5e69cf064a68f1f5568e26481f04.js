@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fc01739554c83ba2af1266379363f86d",
+    "revision": "fae911a2394ee640b1b084f480c329ad",
     "url": "/carlyscapes/index.html"
   },
   {
-    "revision": "95af3cc1010ff12fdb32",
+    "revision": "02dbda8339d49f5bda8c",
+    "url": "/carlyscapes/static/css/2.47e06e2e.chunk.css"
+  },
+  {
+    "revision": "9378b6a2f92fc9cebf7d",
     "url": "/carlyscapes/static/css/main.692a0b68.chunk.css"
   },
   {
-    "revision": "f4be8f06ed9686dce1b2",
-    "url": "/carlyscapes/static/js/2.86cfb8d0.chunk.js"
+    "revision": "02dbda8339d49f5bda8c",
+    "url": "/carlyscapes/static/js/2.58addf43.chunk.js"
   },
   {
-    "revision": "99bd0487192ec9e7d9ee8fbbd91ee444",
-    "url": "/carlyscapes/static/js/2.86cfb8d0.chunk.js.LICENSE.txt"
+    "revision": "bfc08a62983de46a4daec9f8c3c657d8",
+    "url": "/carlyscapes/static/js/2.58addf43.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "95af3cc1010ff12fdb32",
-    "url": "/carlyscapes/static/js/main.25b3d383.chunk.js"
+    "revision": "9378b6a2f92fc9cebf7d",
+    "url": "/carlyscapes/static/js/main.79cb852a.chunk.js"
   },
   {
     "revision": "ef79706d049f0ed2607a",
